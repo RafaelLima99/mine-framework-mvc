@@ -1,0 +1,13 @@
+
+<h1>Index</h1>
+<hr>
+
+<?php 
+	foreach ($this->view->dados as $key => $produto) {
+		echo 'id: '.$produto['id'].'<br>';
+		echo 'descrição: '.$produto['descricao'].'<br>';
+		echo 'preço: '.$produto['preco'].'<br><br>';
+	}
+	echo "<br>";
+	echo 'IndexController e disparando a action index';
+ ?>
