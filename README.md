@@ -6,6 +6,8 @@ Mini framework mvc para sistemas simples
 - PHP
 - Banco de dados: MySQL
 
+# Como executar o projeto
+
 ```bash
 # clonar repositório
 git clone https://github.com/RafaelLima99/mini-framework-mvc.git
