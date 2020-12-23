@@ -22,7 +22,3 @@ cd public
 # executar o projeto
 php -S localhost:8080
 ```
-# Autor
-Rafael Lima
-
-
