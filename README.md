@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Mini framework mvc para sistemas simples
+- Mini framework mvc para sistemas simples
 
 # Tecnologias utilizadas
 - PHP
